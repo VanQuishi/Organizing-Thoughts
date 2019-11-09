@@ -25,7 +25,7 @@ thoughts and they will output your thoughts in a connected, sorted
 order.
 
 
-Input (MUST MATCH):
+INPUT (MUST MATCH):
 
 Professor Rizk is so cool
 
@@ -37,7 +37,7 @@ Neck on froze (huh huh)
 
 Cool A/C air blowing down my neck
 
-Output ./sunny input=input1.txt output=output1.txt
+OUTPUT:
 
 Professor Rizk is so cool
 
@@ -50,7 +50,7 @@ Huh? What did Professor Rizk say?
 Say something she is getting mad
 
 
-Input (MUST MATCH):
+INPUT (MUST MATCH):
 
 Neck fly as a jet
 
@@ -61,7 +61,7 @@ Jet boy better treat me with
 With respect
 
 
-Output ./sunny input=input1.txt output=output1.txt
+OUTPUT:
 
 Keep a gold chain on my neck
 
@@ -72,7 +72,7 @@ Jet boy better treat me with
 With respect
 
 
-Input (MUST MATCH):
+INPUT:
 
 Recall some are dead, and some are living
 
@@ -93,7 +93,7 @@ Better some have gone, and some remain
 All my life, though some have changed some
 
 
-Output ./sunny input=input1.txt output=output1.txt
+OUTPUT:
 
 There are places I'll remember All
 
